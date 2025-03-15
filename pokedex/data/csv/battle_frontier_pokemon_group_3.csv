@@ -1,4 +1,4 @@
-pokemon_id,item_id,move_ids,nature_id,evs,used_in_battle_factory
+pokemon_species_id,held_item_id,move_ids,nature_id,evs,used_in_battle_factory
 51,214,89;161;163;328,11,0;252;0;0;0;252,1
 308,207,94;136;347;226,7,0;252;0;0;0;252,1
 200,207,220;247;109;86,12,252;0;252;0;0;0,1
